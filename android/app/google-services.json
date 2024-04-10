@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "717139407104",
+    "project_id": "digital-marketing-15ae4",
+    "storage_bucket": "digital-marketing-15ae4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717139407104:android:0579fd134cda6aea05c3e5",
+        "android_client_info": {
+          "package_name": "com.sundha.digital_marketing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717139407104-6cin5kg8cju2h2njpfk0epiqefffiuop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sundha.digital_marketing",
+            "certificate_hash": "a604526045c4d4840fa0ec60bcb62fe15cb5c289"
+          }
+        },
+        {
+          "client_id": "717139407104-f03s5spb97bbmbf8mf61ihtfe58otm37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sundha.digital_marketing",
+            "certificate_hash": "ccda9ef41160d7ba377e2457188ff3a9e088bcf5"
+          }
+        },
+        {
+          "client_id": "717139407104-gbf4ghfsn40aelku9621t3vo8e05ib9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1PwjRa0DfHrCnpSzawgBAItjjfVMDRa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717139407104-gbf4ghfsn40aelku9621t3vo8e05ib9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
